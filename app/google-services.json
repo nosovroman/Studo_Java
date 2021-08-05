@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366700314172",
+    "firebase_url": "https://studo-4c912.firebaseio.com",
+    "project_id": "studo-4c912",
+    "storage_bucket": "studo-4c912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366700314172:android:efe32884d214e96c6e8d39",
+        "android_client_info": {
+          "package_name": "com.revenger.studo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366700314172-qapf00hokf8rlg6dh80ffr1u74it2nh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.revenger.studo",
+            "certificate_hash": "3e2d41948402b0c98a0e23b567530277b27ec42f"
+          }
+        },
+        {
+          "client_id": "366700314172-7fbc7malnvdg9vt7kitbdici5vjaokah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8RbPEojjAmNk0V4deutY9Q6xX-cs1hXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366700314172-7fbc7malnvdg9vt7kitbdici5vjaokah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

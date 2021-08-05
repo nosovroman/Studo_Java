@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:title="Files"
+        android:id="@+id/main_file_option"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:title="Deadlines"
+        android:id="@+id/main_deadline_option"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:title="Logout"
+        android:id="@+id/main_logout_option"
+        app:showAsAction="never"
+        android:visible="false"
+        >
+    </item>
+</menu>

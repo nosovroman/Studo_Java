@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/subject_deadline_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="13dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/receiver_messages_layout"
+        android:text="receiver messages"
+        android:padding="10dp"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        android:linksClickable="true"
+        android:contextClickable="true"
+        android:textIsSelectable="true"
+        android:textColorLink="@color/colorLink"
+        />
+
+</RelativeLayout>
